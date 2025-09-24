@@ -49,10 +49,8 @@ Add mobile app integration
 
 Display available slots in real-time via web dashboard
 
----
-##📜 License
 
-This project is open source under the MIT License.
 
+![IOT individual assignment cst2004270](https://github.com/user-attachments/assets/1630a69d-fbc6-43b3-b103-f2e11924ae2b)
 
 
