@@ -32,7 +32,7 @@ It helps detect available parking spaces automatically and makes parking more ef
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/smart_parking_system.git
+   git clone https://github.com/Nicholas1206/smart_parking_system.git
 2.Open smart_parking_system.ino in the Arduino IDE.
 
 3.Select your board & port.
